@@ -2251,7 +2251,7 @@ p {
 .containers {
   position:absolute;
   width: 100%;
-  height: 930px;
+  height: 1020px;
   background: linear-gradient(to bottom, #52dcee 0%, #C3DDD8 30%, #004d95 100%);
   overflow: hidden;
   left: 0px;
